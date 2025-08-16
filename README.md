@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fathima</h1>
 <h3 align="center">🎓 Final Year Undergraduate | B.Sc. (Hons) in Electronics & Computer Science at University of Kelaniya, Sri Lanka</h3>
 
-- 💡 Passionate about building full-stack Web Apps **Learn Loop, an E-Learning Platform**
+- 💡 Passionate about building full-stack Web Apps, **LEARN LOOP - an E-Learning Platform**
 
 - 🤖 Created an AI-based healthcare decision support system **Expert System for Heart Disease Prediction**
 
